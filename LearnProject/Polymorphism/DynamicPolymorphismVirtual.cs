@@ -16,8 +16,9 @@ namespace LearnProject.Polymorphism
             this.height = height;
         }
 
-        // fungsi virtual adalah fungsi yang di wariskan kepada anak untuk tujuan mengaitkan method induk ke anak
-        // dan dapat dipanggil dari instansi objek induk dan anak. contoh berikut
+        // fungsi virtual adalah pembuatan fungsi yang sama antara di induk dan anak
+        // dengan tujuan untuk mengkaitkan antara fungsi induk dan anak agar
+        // dapat dipanggil dari instansi objek induk dan anak. contoh berikut
         // instance object : DynamicPolymorphismVirtual dpv = new RectangleVirtual(12, 11);
         public virtual int area()
         {

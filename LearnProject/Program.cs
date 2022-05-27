@@ -1,10 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿#define PI
+
 using LearnProject.Enum;
 using System;
 using LearnProject.Struct;
 using LearnProject.Class;
 using LearnProject.Inheritance;
 using LearnProject.Polymorphism;
+using LearnProject.Interface;
+using LearnProject.TryCatch;
+using LearnProject.FileStreamC;
 
 namespace LearnProject
 {
@@ -17,8 +21,18 @@ namespace LearnProject
     {
         static void Main()
         {
-            DynamicPolymorphismVirtual dpv = new RectangleVirtual(12, 11);
-            Console.WriteLine(dpv.area());
+            var filest = new ReadWrite();
+            filest.write();
+            filest.read();
+        }
+        public void printDefine()
+        {
+#if (!PI)
+            Console.WriteLine("PI is defined");
+#else
+            Console.WriteLine("PI is not defined");
+#endif
+            Console.WriteLine("end");
         }
     }
 

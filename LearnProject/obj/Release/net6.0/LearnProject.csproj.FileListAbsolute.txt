@@ -1,0 +1,15 @@
+C:\Users\akunf\source\repos\LearnProject\LearnProject\bin\Release\net6.0\LearnProject.exe
+C:\Users\akunf\source\repos\LearnProject\LearnProject\bin\Release\net6.0\LearnProject.deps.json
+C:\Users\akunf\source\repos\LearnProject\LearnProject\bin\Release\net6.0\LearnProject.runtimeconfig.json
+C:\Users\akunf\source\repos\LearnProject\LearnProject\bin\Release\net6.0\LearnProject.dll
+C:\Users\akunf\source\repos\LearnProject\LearnProject\bin\Release\net6.0\LearnProject.pdb
+C:\Users\akunf\source\repos\LearnProject\LearnProject\obj\Release\net6.0\LearnProject.csproj.AssemblyReference.cache
+C:\Users\akunf\source\repos\LearnProject\LearnProject\obj\Release\net6.0\LearnProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akunf\source\repos\LearnProject\LearnProject\obj\Release\net6.0\LearnProject.AssemblyInfoInputs.cache
+C:\Users\akunf\source\repos\LearnProject\LearnProject\obj\Release\net6.0\LearnProject.AssemblyInfo.cs
+C:\Users\akunf\source\repos\LearnProject\LearnProject\obj\Release\net6.0\LearnProject.csproj.CoreCompileInputs.cache
+C:\Users\akunf\source\repos\LearnProject\LearnProject\obj\Release\net6.0\LearnProject.dll
+C:\Users\akunf\source\repos\LearnProject\LearnProject\obj\Release\net6.0\refint\LearnProject.dll
+C:\Users\akunf\source\repos\LearnProject\LearnProject\obj\Release\net6.0\LearnProject.pdb
+C:\Users\akunf\source\repos\LearnProject\LearnProject\obj\Release\net6.0\LearnProject.genruntimeconfig.cache
+C:\Users\akunf\source\repos\LearnProject\LearnProject\obj\Release\net6.0\ref\LearnProject.dll

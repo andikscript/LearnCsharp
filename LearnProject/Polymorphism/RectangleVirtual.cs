@@ -13,7 +13,7 @@ namespace LearnProject.Polymorphism
         public override int area()
         {
             Console.WriteLine("Rectangle Area");
-            return width * height;
+;            return width * height;
         }
     }
 }
